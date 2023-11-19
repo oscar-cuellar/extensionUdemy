@@ -1,0 +1,10 @@
+{
+  "projectName": "udemy_extension",
+  "files": [
+    "README.md"
+  ],
+  "skipCi": true,
+  "imageSize": 50,
+  "commitType": "docs",
+  "contributors": []
+}
